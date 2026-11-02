@@ -20,25 +20,6 @@ Algunos cuadernos destacados:
 - [`Recommendation_Systems.ipynb`](Recommendation_Systems.ipynb)
 - [`Time_Series_Prediction_using_Prophet.ipynb`](Time_Series_Prediction_using_Prophet.ipynb)
 
-## Cómo empezar
-
-1. Clona el repositorio:
-
-   ```bash
-   git clone https://github.com/ernesto-miguez/Machine-Learning.git
-   cd Machine-Learning
-   ```
-
-2. Abre el cuaderno que te interese con Jupyter Notebook, JupyterLab o Google Colab.
-
-   Para usar Jupyter instalado localmente:
-
-   ```bash
-   pip install notebook
-   jupyter notebook
-   ```
-
-3. Sigue las instrucciones y ejecuta las celdas del cuaderno. Las dependencias y los datos pueden variar entre notebooks; revisa las primeras celdas de cada uno para conocer los requisitos específicos.
 
 ## Tecnologías
 
